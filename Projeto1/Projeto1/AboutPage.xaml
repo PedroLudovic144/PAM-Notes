@@ -17,6 +17,6 @@
             Text="This app is whitten in XAML and C# with .NET MAUI"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-        <Button Text="Learn more..." Clicked="LearnMore_Cliked"
+        <Button Text="Learn more..." Clicked="LearnMore_Cliked"/>
     </VerticalStackLayout>
 </ContentPage>
